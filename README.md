@@ -12,5 +12,12 @@ JuliantiJuli
 | Mars | 6.792 | 2 |
 | Jupiter | 142.984 | 67 |
 
+- Saturnus
+- Uranus
+- Neptunus
+
+1. Bumi
+2. Pluto
+3. Venus
 
 TREASUREJulianti
